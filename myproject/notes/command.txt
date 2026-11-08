@@ -1,0 +1,4 @@
+ls-list the contents of a directoryb
+cd-move places  in a directory otr along a file path
+nano-text editoplus makes files 
+
